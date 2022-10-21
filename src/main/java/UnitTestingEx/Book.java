@@ -17,7 +17,7 @@ public class Book {
 	}
 	
 	public String getBookName() {
-		System.out.Println("Name of the Book: ");
+		System.out.println("Name of the Book: ");
 		return bookName;
 	}
 	
